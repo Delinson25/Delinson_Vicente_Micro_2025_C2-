@@ -1,0 +1,24 @@
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-F_Cu.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-B_Cu.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-F_Paste.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-B_Paste.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-F_Mask.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-B_Mask.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-job.gbrjob'.
+Info: Done.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-F_Cu.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-B_Cu.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-F_Paste.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-B_Paste.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-F_Mask.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-B_Mask.gbr'.
+Plotted to 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\hp\Documents\Timer sp32 IDF\porton micro-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.
