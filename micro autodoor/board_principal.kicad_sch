@@ -1,0 +1,1067 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "125be472-6ce1-47bb-a5ae-257a216a6d21")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 116.84 140.97) (xy 137.16 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "082f1f22-574c-4537-844a-de7404266044")
+	)
+	(wire
+		(pts
+			(xy 116.84 57.15) (xy 137.16 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3209dce7-7037-4eec-bd00-0b64e11cad3b")
+	)
+	(wire
+		(pts
+			(xy 116.84 127) (xy 137.16 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4111cd65-9659-48f6-a699-f459c491517f")
+	)
+	(wire
+		(pts
+			(xy 116.84 132.08) (xy 137.16 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "636b5388-a337-4509-82d4-e647a82d316b")
+	)
+	(wire
+		(pts
+			(xy 96.52 88.9) (xy 100.33 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69b34417-81b5-4f31-ab63-9e0bd46a95c9")
+	)
+	(wire
+		(pts
+			(xy 116.84 67.31) (xy 137.16 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "734d2886-f7ed-4f2a-9af1-4235cc861406")
+	)
+	(wire
+		(pts
+			(xy 116.84 36.83) (xy 137.16 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "818e7919-a546-47a3-992d-4396dd2347b8")
+	)
+	(wire
+		(pts
+			(xy 93.98 67.31) (xy 100.33 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a1412bc-446c-4306-8fc1-5e90c461a4d2")
+	)
+	(wire
+		(pts
+			(xy 93.98 100.33) (xy 100.33 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0c658cb-2b0f-463b-a648-7f7324b3ef0c")
+	)
+	(wire
+		(pts
+			(xy 116.84 46.99) (xy 137.16 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a94c3b13-2882-46ba-90da-0785e45d1ee1")
+	)
+	(wire
+		(pts
+			(xy 116.84 137.16) (xy 137.16 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b778a744-d2af-4773-a8fb-4d8d651011cc")
+	)
+	(wire
+		(pts
+			(xy 96.52 57.15) (xy 100.33 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8041a06-0ac0-4ae6-823a-bcfb3aad6ceb")
+	)
+	(wire
+		(pts
+			(xy 116.84 77.47) (xy 137.16 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d014bf33-0ce5-45e3-8b54-ec7288fde951")
+	)
+	(wire
+		(pts
+			(xy 93.98 77.47) (xy 100.33 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d33385fd-ddfe-433d-a99c-f17c2a809390")
+	)
+	(wire
+		(pts
+			(xy 116.84 100.33) (xy 137.16 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d37871fd-7cd0-4a7b-9bd5-80e526de6a26")
+	)
+	(wire
+		(pts
+			(xy 116.84 88.9) (xy 137.16 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7f6f29b-2d80-4488-a670-00186b0f9a32")
+	)
+	(hierarchical_label "MA"
+		(shape output)
+		(at 264.16 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "01984ad3-90db-44e8-8fc7-7c5163a50a8c")
+	)
+	(hierarchical_label "LSA"
+		(shape input)
+		(at 96.52 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "38fae196-df2f-43ac-9183-467a0910ad07")
+	)
+	(hierarchical_label "RS-485+"
+		(shape output)
+		(at 261.62 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "39a95ebe-905f-4038-b15a-8349ebedde9c")
+	)
+	(hierarchical_label "BA"
+		(shape input)
+		(at 93.98 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "534b08ef-b9fa-42fc-812c-405ae710f796")
+	)
+	(hierarchical_label "FTC"
+		(shape output)
+		(at 93.98 100.33 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5fb6166c-5db6-4f8b-b349-517db58d5b00")
+	)
+	(hierarchical_label "PP"
+		(shape input)
+		(at 96.52 57.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "60ecac7d-0ceb-42c2-8a4b-27626fc5e042")
+	)
+	(hierarchical_label "BC"
+		(shape input)
+		(at 93.98 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "611e6532-179f-41da-bdc7-825578212f7c")
+	)
+	(hierarchical_label "LAMP+"
+		(shape output)
+		(at 262.89 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8df5b2d4-bb4d-417b-8cff-820acd7d91d2")
+	)
+	(hierarchical_label "DIP4"
+		(shape input)
+		(at 116.84 140.97 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "969de5b4-005e-46ef-a95f-b005eb44af54")
+	)
+	(hierarchical_label "B_STOP"
+		(shape output)
+		(at 96.52 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "96dd9217-6af7-44db-9a8a-82cc3ccd443a")
+	)
+	(hierarchical_label "RS-485-"
+		(shape output)
+		(at 261.62 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "aa6342be-3c94-4574-acf0-d34431d1937b")
+	)
+	(hierarchical_label "DIP1"
+		(shape input)
+		(at 116.84 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c0aef41f-a6c9-4403-ae4d-f71738a80689")
+	)
+	(hierarchical_label "MC"
+		(shape output)
+		(at 264.16 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cae90ff5-5f2d-4ba5-b722-a65aa10d4bdf")
+	)
+	(hierarchical_label "LSC"
+		(shape input)
+		(at 96.52 36.83 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e06a21b0-cad7-41c9-bbe7-6be12c1a3298")
+	)
+	(hierarchical_label "LAMP-"
+		(shape output)
+		(at 262.89 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e69fa928-8844-49ce-bbb0-9468a1dd6765")
+	)
+	(hierarchical_label "DIP2"
+		(shape input)
+		(at 116.84 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f1ce4520-c4d7-41ec-adce-481a062f7d3a")
+	)
+	(hierarchical_label "DIP3"
+		(shape input)
+		(at 116.84 137.16 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fdfeacd5-26c0-4678-a5f3-25e81203f536")
+	)
+	(sheet
+		(at 100.33 97.79)
+		(size 16.51 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "10f09ed7-693a-422a-b824-506b4c33d1e0")
+		(property "Sheetname" "IMPUT_DIGITAL6"
+			(at 100.33 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMPUT_DIGITAL.kicad_sch"
+			(at 100.33 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 100.33 100.33 180)
+			(uuid "fd703d49-da0a-4dfe-a766-05bffb12febf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT" output
+			(at 116.84 100.33 0)
+			(uuid "d499ee46-346d-46e3-ade2-c757f3ac13d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "micro autodoor"
+				(path "/3dc9151e-2269-486b-a333-294da30e5c12/89682661-a5af-4e01-91f4-ddf79f61a74f"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 64.77)
+		(size 16.51 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "280196e7-bfd2-46e2-9d5b-e8ef8fc11310")
+		(property "Sheetname" "IMPUT_DIGITAL3"
+			(at 100.33 64.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMPUT_DIGITAL.kicad_sch"
+			(at 100.33 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 100.33 67.31 180)
+			(uuid "3fb8d794-16d9-4959-a473-ec9fa201e6bf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT" output
+			(at 116.84 67.31 0)
+			(uuid "e9aac15d-c2cd-4848-bc0b-1d5535b06d70")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "micro autodoor"
+				(path "/3dc9151e-2269-486b-a333-294da30e5c12/89682661-a5af-4e01-91f4-ddf79f61a74f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 233.68 30.48)
+		(size 22.86 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "34b9efe2-5197-45fb-b29e-a1fd544c7eca")
+		(property "Sheetname" "PuenteH"
+			(at 233.68 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PuenteH.kicad_sch"
+			(at 233.68 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "micro autodoor"
+				(path "/3dc9151e-2269-486b-a333-294da30e5c12/89682661-a5af-4e01-91f4-ddf79f61a74f"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 34.29)
+		(size 16.51 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "68f2909c-a073-4cd8-9035-4f8f97470463")
+		(property "Sheetname" "IMPUT_DIGITAL"
+			(at 100.33 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMPUT_DIGITAL.kicad_sch"
+			(at 100.33 39.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 100.33 36.83 180)
+			(uuid "5678722b-de2d-45b3-8b92-e5128fda0c99")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT" output
+			(at 116.84 36.83 0)
+			(uuid "dff5a509-158b-4d8b-aa8d-8cafc599e2a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "micro autodoor"
+				(path "/3dc9151e-2269-486b-a333-294da30e5c12/89682661-a5af-4e01-91f4-ddf79f61a74f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 30.48)
+		(size 59.69 114.3)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "789938ee-f788-44c7-ba63-cd968574ee84")
+		(property "Sheetname" "MICROCONTROLADOR"
+			(at 137.16 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MICROCONTROLADOR.kicad_sch"
+			(at 137.16 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIP1" input
+			(at 137.16 127 180)
+			(uuid "2a42820a-4a0c-425c-8c54-8af59ccd164d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DIP2" input
+			(at 137.16 132.08 180)
+			(uuid "f8199478-4a29-4f34-8cb8-bd8cfe757aac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DIP3" input
+			(at 137.16 137.16 180)
+			(uuid "f43177d4-39d0-4de3-bf29-8616d155d66c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DIP4" input
+			(at 137.16 140.97 180)
+			(uuid "eda5270e-6c3c-4cb5-bd4e-b464b15be694")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BA_Micro" input
+			(at 137.16 67.31 180)
+			(uuid "369496d5-51ac-4497-8026-682e8245aa36")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BC_Micro" input
+			(at 137.16 77.47 180)
+			(uuid "f58f4b1f-f2ff-4dd1-9f6a-a8bb974e69a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "B_STOP_Micro" output
+			(at 137.16 88.9 180)
+			(uuid "0ba7218b-9d13-4a6b-8a4c-1941b222e9bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FTCD_Micro" output
+			(at 137.16 100.33 180)
+			(uuid "44406924-f437-4ef8-8a3d-da91cd5399b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LSA_Micro" input
+			(at 137.16 46.99 180)
+			(uuid "ae383517-d8a4-4a57-b097-f77d68e9b71f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LSC_Micro" input
+			(at 137.16 36.83 180)
+			(uuid "5effdbff-ddad-4644-a4be-3f8d9493c228")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PP_Micro" input
+			(at 137.16 57.15 180)
+			(uuid "f77f20a1-9794-4c82-90e7-bbc84c7a75af")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "micro autodoor"
+				(path "/3dc9151e-2269-486b-a333-294da30e5c12/89682661-a5af-4e01-91f4-ddf79f61a74f"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 74.93)
+		(size 16.51 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7bb098ed-5d2e-4361-9d1c-db115631761f")
+		(property "Sheetname" "IMPUT_DIGITAL4"
+			(at 100.33 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMPUT_DIGITAL.kicad_sch"
+			(at 100.33 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 100.33 77.47 180)
+			(uuid "27b1be8b-6f48-455a-836b-ef844ff3f74b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT" output
+			(at 116.84 77.47 0)
+			(uuid "d48bcb99-bd5d-47c1-b366-d49628927cf2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "micro autodoor"
+				(path "/3dc9151e-2269-486b-a333-294da30e5c12/89682661-a5af-4e01-91f4-ddf79f61a74f"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 44.45)
+		(size 16.51 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "982a2068-76fe-4876-8e52-502bb200b2e6")
+		(property "Sheetname" "IMPUT_DIGITAL1"
+			(at 100.33 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMPUT_DIGITAL.kicad_sch"
+			(at 100.33 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 100.33 46.99 180)
+			(uuid "510f6591-4a14-421c-82e0-f4406fbae833")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT" output
+			(at 116.84 46.99 0)
+			(uuid "2543113a-78c0-409e-a867-6106ad4e65a0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "micro autodoor"
+				(path "/3dc9151e-2269-486b-a333-294da30e5c12/89682661-a5af-4e01-91f4-ddf79f61a74f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 54.61)
+		(size 16.51 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a7a9956c-f0a9-4651-94f3-fdad442f5e6f")
+		(property "Sheetname" "IMPUT_DIGITAL2"
+			(at 100.33 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMPUT_DIGITAL.kicad_sch"
+			(at 100.33 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 100.33 57.15 180)
+			(uuid "4828c7ab-e696-4dfb-8a35-e53074c9fdc9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT" output
+			(at 116.84 57.15 0)
+			(uuid "a14432ca-8f7f-487a-a3f0-5984eb5cfcad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "micro autodoor"
+				(path "/3dc9151e-2269-486b-a333-294da30e5c12/89682661-a5af-4e01-91f4-ddf79f61a74f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 233.68 76.2)
+		(size 20.32 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d5207355-d6cf-4380-8f7b-ff2e5dddf18c")
+		(property "Sheetname" "RS_485"
+			(at 233.68 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RS_485.kicad_sch"
+			(at 233.68 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "micro autodoor"
+				(path "/3dc9151e-2269-486b-a333-294da30e5c12/89682661-a5af-4e01-91f4-ddf79f61a74f"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 86.36)
+		(size 16.51 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e70f0072-eaa2-4acf-a491-094f5ef4b0fa")
+		(property "Sheetname" "IMPUT_DIGITAL5"
+			(at 100.33 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMPUT_DIGITAL.kicad_sch"
+			(at 100.33 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 100.33 88.9 180)
+			(uuid "05598b8f-e05a-4280-a382-86c119e835bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT" output
+			(at 116.84 88.9 0)
+			(uuid "f1ee771c-f550-47b7-a3e1-30d90c3fa3a5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "micro autodoor"
+				(path "/3dc9151e-2269-486b-a333-294da30e5c12/89682661-a5af-4e01-91f4-ddf79f61a74f"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 233.68 54.61)
+		(size 21.59 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fb1be6a2-1904-4e68-857b-dfbe4dd02f87")
+		(property "Sheetname" "DRIVERLAMPARA"
+			(at 233.68 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DRIVERLAMPARA.kicad_sch"
+			(at 233.68 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "micro autodoor"
+				(path "/3dc9151e-2269-486b-a333-294da30e5c12/89682661-a5af-4e01-91f4-ddf79f61a74f"
+					(page "15")
+				)
+			)
+		)
+	)
+)
