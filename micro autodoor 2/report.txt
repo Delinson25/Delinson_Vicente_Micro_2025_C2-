@@ -1,0 +1,12 @@
+Plotted to 'C:\Users\hp\Documents\Porton micro actualizado\micro autodoor-F_Cu.gbr'.
+Plotted to 'C:\Users\hp\Documents\Porton micro actualizado\micro autodoor-B_Cu.gbr'.
+Plotted to 'C:\Users\hp\Documents\Porton micro actualizado\micro autodoor-F_Paste.gbr'.
+Plotted to 'C:\Users\hp\Documents\Porton micro actualizado\micro autodoor-B_Paste.gbr'.
+Plotted to 'C:\Users\hp\Documents\Porton micro actualizado\micro autodoor-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\hp\Documents\Porton micro actualizado\micro autodoor-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\hp\Documents\Porton micro actualizado\micro autodoor-F_Mask.gbr'.
+Plotted to 'C:\Users\hp\Documents\Porton micro actualizado\micro autodoor-B_Mask.gbr'.
+Plotted to 'C:\Users\hp\Documents\Porton micro actualizado\micro autodoor-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\hp\Documents\Porton micro actualizado\micro autodoor-job.gbrjob'.
+Info: Done.
+Info: Done.
