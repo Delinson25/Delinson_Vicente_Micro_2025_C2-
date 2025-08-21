@@ -1,0 +1,7 @@
+menu "Example Configuration"
+    config BROKER_URI
+        string "Broker URL"
+        default "mqtt://broker.emqx.io:1883"
+        help
+            URL of the MQTT broker.
+endmenu
